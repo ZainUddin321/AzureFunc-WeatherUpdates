@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure Functions Practice", "Azure Functions Practice.csproj", "{3FA3E0AE-E83C-472A-B723-5A740E449F19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "obj", "obj", "{E283B27A-E3EB-45F2-9C37-FAD0D584ACD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{DB22DA59-959D-47AC-AF9F-272CBF5347E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net8.0", "net8.0", "{CABFC0C7-0FB6-4B22-95D6-F744355B3802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA3E0AE-E83C-472A-B723-5A740E449F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA3E0AE-E83C-472A-B723-5A740E449F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA3E0AE-E83C-472A-B723-5A740E449F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA3E0AE-E83C-472A-B723-5A740E449F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0D4CC6-8786-404E-9C0E-834EEC5EFDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0D4CC6-8786-404E-9C0E-834EEC5EFDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0D4CC6-8786-404E-9C0E-834EEC5EFDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0D4CC6-8786-404E-9C0E-834EEC5EFDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB22DA59-959D-47AC-AF9F-272CBF5347E1} = {E283B27A-E3EB-45F2-9C37-FAD0D584ACD2}
+		{CABFC0C7-0FB6-4B22-95D6-F744355B3802} = {DB22DA59-959D-47AC-AF9F-272CBF5347E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF9FDEF-3A20-4ECA-BB78-FA93F64229D3}
+	EndGlobalSection
+EndGlobal
